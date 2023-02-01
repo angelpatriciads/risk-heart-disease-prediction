@@ -34,7 +34,6 @@ Make the best deep neural network model with hypertuning to carry out the classi
 6. Data preparation
     * Train-test-val split with the proportion 8:1:1
 7. Tuning hyperparameter
-Using Hyperparameter Tuning, we got
     * Best number of layer  : 3
     * Best number of neuron : 300
 8. Build the model
